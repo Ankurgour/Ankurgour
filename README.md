@@ -31,3 +31,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankurgour&show_icons=true&locale=en" alt="ankurgour" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankurgour&" alt="ankurgour" /></p>
+
+<br><br>
+[![An image of @ankurgour's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ankurgour)](https://holopin.io/@ankurgour)
